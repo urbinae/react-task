@@ -1,0 +1,29 @@
+{
+	"todos":[
+		{
+			"title": "Task 1",
+			"responsible": "Eimar",
+			"description": "Hacer algo 1",
+			"priority": "Baja"
+		},
+		{
+			"title": "Task 2",
+			"responsible": "Jose",
+			"description": "Hacer algo 2",
+			"priority": "Media"
+		},
+		{
+			"title": "Task 3",
+			"responsible": "Daniel",
+			"description": "Hacer algo 3",
+			"priority": "Alta"
+		}
+		,
+		{
+			"title": "Task 4",
+			"responsible": "Yovanny",
+			"description": "Hacer algo 4",
+			"priority": "Baja"
+		}
+	]
+}
